@@ -29,16 +29,6 @@ export default function Nav() {
             >
               Home
             </Link>
-            <Link
-              href="/suppliers"
-              className={`px-4 py-2 rounded-lg transition-colors duration-200 ${
-                pathname === '/suppliers'
-                  ? 'text-white bg-blue-600/20 border border-blue-500/30'
-                  : 'text-gray-300 hover:text-white hover:bg-white/5'
-              }`}
-            >
-              Suppliers
-            </Link>
           </div>
         </div>
       </div>

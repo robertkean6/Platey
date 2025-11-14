@@ -1,5 +1,3 @@
-import Link from 'next/link'
-
 export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900 px-4 pt-24 pb-12">
@@ -65,14 +63,6 @@ export default function Home() {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-white/10">
-          <div className="mb-4">
-            <Link
-              href="/suppliers"
-              className="text-blue-400 hover:text-blue-300 transition-colors duration-200 text-lg font-medium"
-            >
-              We&apos;re Looking for Suppliers →
-            </Link>
-          </div>
           <p className="text-gray-400 text-sm">
             © {new Date().getFullYear()} Platey. All rights reserved.
           </p>
