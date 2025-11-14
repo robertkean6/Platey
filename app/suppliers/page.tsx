@@ -7,7 +7,7 @@ export default function Suppliers() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 tracking-tight">
-            We're Looking for Suppliers
+            We&apos;re Looking for Suppliers
           </h1>
           <div className="w-24 h-1 bg-blue-500 mx-auto rounded-full mb-6"></div>
           <p className="text-xl text-blue-100 max-w-2xl mx-auto">
@@ -15,9 +15,9 @@ export default function Suppliers() {
           </p>
         </div>
 
-        {/* What We're Looking For */}
+        {/* What We&apos;re Looking For */}
         <div className="bg-white/5 backdrop-blur-sm rounded-lg p-8 md:p-12 border border-white/10 mb-8">
-          <h2 className="text-3xl font-semibold text-white mb-6">What We're Looking For</h2>
+          <h2 className="text-3xl font-semibold text-white mb-6">What We&apos;re Looking For</h2>
           <div className="space-y-6 mb-8">
             <div className="flex items-start gap-4">
               <div className="text-2xl">🏭</div>
@@ -85,7 +85,7 @@ export default function Suppliers() {
               <div>
                 <h3 className="text-xl font-semibold text-white mb-2">Reliable Business</h3>
                 <p className="text-gray-300">
-                  Consistent orders and clear communication. We're building a sustainable, professional operation.
+                  Consistent orders and clear communication. We&apos;re building a sustainable, professional operation.
                 </p>
               </div>
             </div>

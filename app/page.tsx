@@ -21,7 +21,7 @@ export default function Home() {
             Premium UK Number Plates
           </p>
           <p className="text-lg text-gray-300 max-w-xl mx-auto leading-relaxed">
-            We're crafting something special. Platey will be your trusted UK-based supplier 
+            We&apos;re crafting something special. Platey will be your trusted UK-based supplier 
             and printer of high-quality number plates. Stay tuned for our launch!
           </p>
         </div>
@@ -70,7 +70,7 @@ export default function Home() {
               href="/suppliers"
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200 text-lg font-medium"
             >
-              We're Looking for Suppliers →
+              We&apos;re Looking for Suppliers →
             </Link>
           </div>
           <p className="text-gray-400 text-sm">
